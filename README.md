@@ -15,7 +15,5 @@ Hello my name is Pantelis and i am from Greece. Recently i finished an online co
 ---
 [![](https://visitcount.itsvg.in/api?id=pandelislag&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
