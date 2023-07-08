@@ -15,6 +15,5 @@ Hello my name is Pantelis and i am from Greece. Recently i finished an online co
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pandelislag&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
