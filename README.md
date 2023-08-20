@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Pantelis and i am from Greece. Recently i finished an online coding Bootcamp about Front End Development. This was a journey about 6 months and help me understand all things about Javascript, React Js<br>and more about technologies, change the way how to think generally. My passion is creating nice UIs and understand deeper programming.
+Hello my name is Pantelis and i am from Greece. Recently i finished an online coding Bootcamp around the Front End Development technology. This was a journey that lasted 6 months and helped me understood all things around Javascript, React Js<br>and more technologies. I also changed the way how to think generally. My passion generally is to create nice UIs and understand deeper programming.
 
 
 ## 🌐 Socials:
